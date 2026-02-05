@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shehab osama</h1>
+<h1 align="center">Hi 👋, I'm Shehab Osama</h1>
 
 
 ![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
